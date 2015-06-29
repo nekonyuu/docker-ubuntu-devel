@@ -1,4 +1,4 @@
-# docker-ubuntu-devel
-Development Docker for Ubuntu (with SCMs)
+# Ubuntu Development Images
+Development Dockers for Ubuntu (with SCMs), useful for CI.
 
-This repo have multiple branch (one per supported Ubuntu release)
+This repo has multiple branches (one per supported Ubuntu release).
