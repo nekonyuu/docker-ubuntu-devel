@@ -2,7 +2,7 @@ FROM ubuntu:utopic
 MAINTAINER Jonathan Raffre <nk@nyuu.eu>
 
 RUN apt-get update && apt-get install -y --no-install-recommends \
-    python-software-properties \
+    software-properties-common \
     bzr \
     git \
     mercurial \
