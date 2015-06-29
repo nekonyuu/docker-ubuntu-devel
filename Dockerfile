@@ -1,4 +1,4 @@
-FROM ubuntu:utopic
+FROM ubuntu:trusty
 MAINTAINER Jonathan Raffre <nk@nyuu.eu>
 
 RUN apt-get update && apt-get install -y --no-install-recommends \
